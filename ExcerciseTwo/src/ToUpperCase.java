@@ -4,9 +4,14 @@ import java.io.File;
 
 public class ToUpperCase {
     public static void main(String[] args) {
+        ToUpperCase toUpperCase = new ToUpperCase();
+        String uppperCase = toUpperCase.getInUpperCase("src/a1.txt");
+    }
+
+    public String getInUpperCase(String file){
         String text = "";
         try{
-            Scanner sc = new Scanner(new File("src/a1.txt"));
+            Scanner sc = new Scanner(new File(file));
             while(sc.hasNextLine()){
 
                 text = text + sc.nextLine() + "\n";
@@ -17,6 +22,6 @@ public class ToUpperCase {
 
         text = text.toUpperCase();
 
-        System.out.println(text);
+        return text;
     }
 }

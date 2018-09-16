@@ -20,9 +20,12 @@ public class PowerOfFour {
         long num = n;
         while(n>1){
             n = n/4;
+            if(n%4 != 0){
+                return false;
+            }
         }
 
-        if(n == 1 && num%4==0){
+        if(n == 1){
             return true;
         }else{
             return false;
