@@ -1,0 +1,4 @@
+hello
+my name is file 2
+here is some text.
+bye now
