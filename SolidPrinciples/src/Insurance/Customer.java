@@ -12,9 +12,14 @@ public class Customer {
 
     public void fileClaim(String claimId){
         System.out.println("Filing claim: "+claimId);
-        Surveyor surveyor = new Surveyor();
-        if(surveyor.validateClaim(claimId)){
+        CarInsuranceSurveyor carInsuranceSurveyor = new CarInsuranceSurveyor();
+        ClaimManager claimManager= new ClaimManager(carInsuranceSurveyor);
+
+        if(claimManager.approveClaim(claimId)){
             System.out.println(name+" your claim is filed.");
         }
+
+        HealthInsuranceSurveyor healthInsuranceSurveyor = new HealthInsuranceSurveyor();
+        ClaimManager claimManager2= new ClaimManager(healthInsuranceSurveyor);
     }
 }
