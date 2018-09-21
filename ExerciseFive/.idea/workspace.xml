@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2420475-9c26-4077-aeb2-a66db818c9df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreThanTwoOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreThanTwoOccurencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetToArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SetToArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpdateArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpdateArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Val1ToVal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Val1ToVal2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/CharacterOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/FindAllOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/FindHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/FindHarryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/ReplaceDI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/ReplaceDITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/SortWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/SortWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/TransposeOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseFour/src/TransposeOfStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/SolidPrinciples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/CarInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/ClaimManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/HealthInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/HealthInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/Insurance/Surveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/LightBulb/ElectricalAppliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/LightBulb/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/LightBulb/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/LightBulb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/LightBulb/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/ToyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/ToyPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/ToyBuilder/ToyTrain.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1934982358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3005" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3005" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StudentSorter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Val1ToVal2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Val1ToVal2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UpdateArrayList.java" />
+        <option value="$PROJECT_DIR$/src/UpdateArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/MoreThanTwoOccurencesTest.java" />
+        <option value="$PROJECT_DIR$/src/MoreThanTwoOccurences.java" />
+        <option value="$PROJECT_DIR$/src/StudentComparator.java" />
+        <option value="$PROJECT_DIR$/src/Val1ToVal2.java" />
+        <option value="$PROJECT_DIR$/src/Val1ToVal2Test.java" />
+        <option value="$PROJECT_DIR$/src/SetToArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/SetToArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/CountWords.java" />
+        <option value="$PROJECT_DIR$/src/StudentSorter.java" />
+        <option value="$PROJECT_DIR$/src/MainTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1161" />
+    <option name="height" value="657" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExerciseFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseFive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537437482444" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountWords" />
+      <module name="ExerciseFive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <module name="ExerciseFive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreThanTwoOccurencesTest.checkForOccurences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExerciseFive" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoreThanTwoOccurencesTest" />
+      <option name="METHOD_NAME" value="checkForOccurences" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetToArrayListTest.toArrayList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExerciseFive" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetToArrayListTest" />
+      <option name="METHOD_NAME" value="toArrayList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Val1ToVal2Test.replaceVal2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExerciseFive" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Val1ToVal2Test" />
+      <option name="METHOD_NAME" value="replaceVal2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MoreThanTwoOccurencesTest.checkForOccurences" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="JUnit.Val1ToVal2Test.replaceVal2" />
+      <item itemvalue="JUnit.SetToArrayListTest.toArrayList" />
+      <item itemvalue="Application.CountWords" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.CountWords" />
+        <item itemvalue="JUnit.SetToArrayListTest.toArrayList" />
+        <item itemvalue="JUnit.Val1ToVal2Test.replaceVal2" />
+        <item itemvalue="JUnit.MoreThanTwoOccurencesTest.checkForOccurences" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2420475-9c26-4077-aeb2-a66db818c9df" name="Default Changelist" comment="" />
+      <created>1537346067150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537346067150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UpdateArrayListTest_testUpdateArrayList - 2018.09.19 at 14h 18m 23s.xml">
+      <configuration name="UpdateArrayListTest.testUpdateArrayList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UpdateArrayListTest_checkForEmpty - 2018.09.19 at 14h 20m 21s.xml">
+      <configuration name="UpdateArrayListTest.checkForEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MoreThanTwoOccurencesTest_checkForOccurences - 2018.09.20 at 00h 02m 09s.xml">
+      <configuration name="MoreThanTwoOccurencesTest.checkForOccurences" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Val1ToVal2Test_replaceVal2 - 2018.09.20 at 00h 38m 00s.xml">
+      <configuration name="Val1ToVal2Test.replaceVal2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetToArrayListTest_toArrayList - 2018.09.20 at 01h 08m 26s.xml">
+      <configuration name="SetToArrayListTest.toArrayList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetToArrayListTest_toArrayList - 2018.09.20 at 01h 11m 33s.xml">
+      <configuration name="SetToArrayListTest.toArrayList" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" weight="0.32960895" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25379092" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/UpdateArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#523#0" expanded="true" />
+            <element signature="e#1049#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UpdateArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoreThanTwoOccurences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#184#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoreThanTwoOccurencesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="e#553#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SetToArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SetToArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Val1ToVal2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Val1ToVal2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
